@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "169969477900",
+    "project_id": "tugas-pemrogmobile",
+    "storage_bucket": "tugas-pemrogmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169969477900:android:393a6a187993a8422d4129",
+        "android_client_info": {
+          "package_name": "com.example.weo.weorganize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169969477900-fmdb034g1f937l64t4f91ktdb6cfnop0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weo.weorganize",
+            "certificate_hash": "7488987d3bb29a3c10d89554e45b90b2a5037880"
+          }
+        },
+        {
+          "client_id": "169969477900-tsmr84svuf5539rrfcnjtsshtdkis74e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4RhwA78UMYGRYx9mGN-yxg3U_Rur-6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169969477900-tsmr84svuf5539rrfcnjtsshtdkis74e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169969477900:android:2a0641496d1ea9172d4129",
+        "android_client_info": {
+          "package_name": "com.example.weorganize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169969477900-1tmc0i54915a006gbg264otfnr9hqbpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weorganize",
+            "certificate_hash": "7488987d3bb29a3c10d89554e45b90b2a5037880"
+          }
+        },
+        {
+          "client_id": "169969477900-38leoonb2hp9o04fp3l0uhauj84ds98s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weorganize",
+            "certificate_hash": "3b5fb8f2c6117d9a7810debf9af2d7877aec2c47"
+          }
+        },
+        {
+          "client_id": "169969477900-tsmr84svuf5539rrfcnjtsshtdkis74e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4RhwA78UMYGRYx9mGN-yxg3U_Rur-6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169969477900-tsmr84svuf5539rrfcnjtsshtdkis74e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
