@@ -6,7 +6,7 @@ import '../model/events.dart';
 
 class UserApiService {
 
-  final String baseUrl = "https://weorganize.niobesad.xyz";
+  final String baseUrl = "urserver";
   Client client = Client();
 
   Future<List<UsersModel>> getUsers() async {
